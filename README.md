@@ -1,16 +1,11 @@
-# tp_auth
-
-A new Flutter project.
+# Atelier 7 : Opérations CRUD (Create, Read, Update, Delete)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Apprendre à intégrer Firebase Firestore dans une application Flutter pour gérer des données en temps réel.
+Concepts abordés :
+<ol>
+  <li>Firebase Firestore : Base de données NoSQL gérée par Firebase, offrant une synchronisation en temps réel.</li>
+  <li>CRUD : Les opérations Create, Read, Update et Delete sur Firestore.</li>
+  <li>Widgets Flutter : Utilisation des widgets pour construire une interface utilisateur interactive.</li>
+</ol>
